@@ -194,6 +194,7 @@ To contribute:
 ## 👨‍💻 Developed By  
 
 **👤 Praveen Kumar**  
+*Polaris School of Technology*
 📍 *Bangalore, India*  
 💻 *Software Developer | AI/ML Enthusiast | React Native Learner*  
 
