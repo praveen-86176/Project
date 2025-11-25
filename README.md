@@ -12,7 +12,7 @@ A **React Native (Expo)** mobile app that helps users **build, track, and mainta
 
 ---
 
-## 🚀 Features  
+## 🚀 Features : 
 
 ### 🧩 Core Functionalities  
 - ✅ **Add New Habit:** Add habits like “Drink 8 glasses of water.”  
@@ -23,7 +23,7 @@ A **React Native (Expo)** mobile app that helps users **build, track, and mainta
 
 ---
 
-### 🌟 Bonus Enhancements  
+### 🌟 Bonus Enhancements : 
 ⭐ **Daily Progress Tracker:**  
 Visual progress bar (e.g., “3/5 Completed”).  
 
@@ -38,7 +38,7 @@ Modern, minimalist design using Flexbox and boxShadow for both Android & iOS.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack : 
 
 | Layer | Technology |
 |-------|-------------|
@@ -51,7 +51,7 @@ Modern, minimalist design using Flexbox and boxShadow for both Android & iOS.
 
 ---
 
-## 🧱 Folder Structure  
+## 🧱 Folder Structure : 
 
 ```bash
 HabitTrackerApp/
@@ -69,7 +69,7 @@ HabitTrackerApp/
 └── assets/
     └── icons/
 ```
-## ⚙️ Installation & Setup  
+## ⚙️ Installation & Setup : 
 
 ### 1️⃣ Clone the Repository
 ```bash
@@ -86,7 +86,7 @@ npx expo start
 ```
 ## Then scan the QR code using the Expo Go App on your Android or iOS device to preview it instantly 🚀
 
-## 🧩 Dependencies
+## 🧩 Dependencies :
 ```bash
 npm install @react-navigation/native @react-navigation/native-stack
 npm install @react-navigation/bottom-tabs
@@ -94,7 +94,7 @@ npm install @react-native-async-storage/async-storage
 npm install react-native-vector-icons
 expo install expo-linear-gradient expo-status-bar
 ```
-## 💡 How It Works  
+## 💡 How It Works : 
 
 1. **Add Habit:** Type a habit in the input field and press “Add” to include it in your list.  
 2. **Mark Done:** Tap the checkbox to mark a habit as completed — the progress bar updates automatically.  
@@ -105,7 +105,7 @@ expo install expo-linear-gradient expo-status-bar
 
 ---
 
-## 🎨 UI Showcase  
+## 🎨 UI Showcase : 
 
 | 🌞 Light Mode | 🌙 Dark Mode |
 |---------------|--------------|
@@ -115,7 +115,7 @@ expo install expo-linear-gradient expo-status-bar
 
 ---
 
-## 🧠 Learning Outcomes  
+## 🧠 Learning Outcomes : 
 
 By completing this project, you’ll learn to:  
 - 🧩 Build components using **React Native**  
@@ -128,7 +128,7 @@ By completing this project, you’ll learn to:
 
 ---
 
-## 🧰 Troubleshooting  
+## 🧰 Troubleshooting  :
 
 ### ⚠️ Common Issues and Fixes  
 
@@ -155,7 +155,7 @@ If you face issues with Expo or hot reloading, clear your cache and restart:
 ```bash
 npx expo start -c
 ```
-## ✨ Future Improvements  
+## ✨ Future Improvements : 
 
 🚀 Planned updates to make the app even better:  
 
@@ -169,7 +169,7 @@ npx expo start -c
 
 ---
 
-## 🤝 Contributing  
+## 🤝 Contributing : 
 
 We ❤️ open-source contributions!  
 
@@ -191,7 +191,7 @@ To contribute:
 ---
 
 
-## 👨‍💻 Developed By  
+## 👨‍💻 Developed By : 
 
 **👤 Praveen Kumar**  
 *Polaris School of Technology*
@@ -203,4 +203,5 @@ To contribute:
 ---
 
 ⭐ **If you found this project helpful, please give it a star on GitHub!**  
+
 Your support motivates continuous learning and open-source development 💪✨
